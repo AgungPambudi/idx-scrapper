@@ -1,4 +1,8 @@
+<<<<<<< HEAD
 # Byte-compiled / optimized / DLL files
+=======
+# created by virtualenv automatically
+>>>>>>> 59d1799 (push pertama)
 __pycache__/
 *.py[cod]
 *$py.class
@@ -11,6 +15,7 @@ __pycache__/
 build/
 develop-eggs/
 dist/
+<<<<<<< HEAD
 downloads/
 eggs/
 .eggs/
@@ -18,6 +23,20 @@ lib/
 lib64/
 parts/
 sdist/
+=======
+data/
+downloads/
+eggs/
+.eggs/
+etc/
+lib/
+Lib/
+lib64/
+parts/
+Scripts/
+sdist/
+share/
+>>>>>>> 59d1799 (push pertama)
 var/
 wheels/
 pip-wheel-metadata/
@@ -126,4 +145,8 @@ venv.bak/
 dmypy.json
 
 # Pyre type checker
+<<<<<<< HEAD
 .pyre/
+=======
+.pyre/
+>>>>>>> 59d1799 (push pertama)
